@@ -1,0 +1,10 @@
+/* Small custom styles for the Bootstrap playground */
+body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+.header-ghost { opacity: .95 }
+.hero-img { max-width: 320px }
+.logo-rotate { transition: transform .8s ease; }
+.logo-rotate:hover { transform: rotate(360deg); }
+.card { border: none }
+.toast-container { z-index: 1080 }
+.btn-toggle { margin-bottom: 10px }
+.btn-toggle .btn { margin-right: 5px }
